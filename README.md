@@ -1,4 +1,4 @@
-Hey 👋 My name is Ryan 
+Hey 👋  
 =====================  
 Full-stack web developer 
 ------------------------  
