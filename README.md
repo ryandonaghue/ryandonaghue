@@ -6,7 +6,7 @@ I'm Ryan, currently a stuntman jumping into the world of tech with the School Of
 * 🌍  I'm based in London, UK 
 * 🖥️  See my portfolio at [Ryan Donaghue](http://ryandonaghue.com) 
 * 🚀  I'm currently working on [A Hero's Journey](http://ryandonaghue.com) 
-* 🧠  I'm learning Node.js & React
+* 🧠  I'm learning more about UX/UI
 
 ### Skills  
 
